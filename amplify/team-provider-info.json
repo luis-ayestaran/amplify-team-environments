@@ -23,6 +23,11 @@
       "StackName": "amplify-flutteramplifyenviro-prod-201355",
       "StackId": "arn:aws:cloudformation:us-east-1:213198851588:stack/amplify-flutteramplifyenviro-prod-201355/f3aeb370-7fdf-11ec-8caa-0a732e992c23",
       "AmplifyAppId": "d2557zg2qmnw53"
+    },
+    "categories": {
+      "auth": {
+        "flutteramplifyenviro27ce1792": {}
+      }
     }
   },
   "test": {
