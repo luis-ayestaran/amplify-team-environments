@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:us-east-1:213198851588:stack/amplify-flutteramplifyenviro-dev-200200/4aba3fb0-7fde-11ec-91ad-0e9705f7eb11",
       "AmplifyAppId": "d2557zg2qmnw53"
     }
+  },
+  "homescreen": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-flutteramplifyenviro-homescreen-111203-authRole",
+      "UnauthRoleArn": "arn:aws:iam::213198851588:role/amplify-flutteramplifyenviro-homescreen-111203-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::213198851588:role/amplify-flutteramplifyenviro-homescreen-111203-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-flutteramplifyenviro-homescreen-111203-deployment",
+      "UnauthRoleName": "amplify-flutteramplifyenviro-homescreen-111203-unauthRole",
+      "StackName": "amplify-flutteramplifyenviro-homescreen-111203",
+      "StackId": "arn:aws:cloudformation:us-east-1:213198851588:stack/amplify-flutteramplifyenviro-homescreen-111203/6bb57250-805d-11ec-8392-12621be026b7",
+      "AmplifyAppId": "d2557zg2qmnw53"
+    },
+    "categories": {
+      "auth": {
+        "flutteramplifyenviro27ce1792": {}
+      }
+    }
   }
 }
